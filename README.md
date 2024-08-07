@@ -1,2 +1,2 @@
 # Excel-LookUp Project.
-This project shows how xlook and vlookup is used in data analysis.
+This project shows how xlookup and vlookup is used in data analysis.
